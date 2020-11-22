@@ -1,0 +1,9 @@
+{
+    "token":"",
+    "ban":false,
+    "mute":false,
+    "muteRole":"",
+    "kick":false,
+    "log":true,
+    "logChannel":""
+}
